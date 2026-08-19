@@ -23,12 +23,12 @@ Every developer needs ai code reviewer — but existing tools are either too com
 
 ## Features
 
-- **AI-powered analysis using local LLMs** — AI-powered analysis using local LLMs
-- **Multi-language support (Go, Python, JavaScript, Java, and more)** — Multi-language support (Go, Python, JavaScript, Java, and more)
-- **Detects code smells, anti-patterns, and potential bugs** — Detects code smells, anti-patterns, and potential bugs
-- **Generates actionable suggestions for improvement** — Generates actionable suggestions for improvement
-- **Fully offline** — your code never leaves your machine
-- **JSON/HTML report export** — JSON/HTML report export
+- AI-powered analysis using local LLMs
+- Multi-language support (Go, Python, JavaScript, Java, and more)
+- Detects code smells, anti-patterns, and potential bugs
+- Generates actionable suggestions for improvement
+- Fully offline - your code never leaves your machine
+- JSON/HTML report export
 
 ## Quick Start
 
